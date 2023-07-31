@@ -1,0 +1,2 @@
+# Whatsapp-Chat-Analysis
+In this project we have used our class whatsapp group chat as the dataset, and have done the data preprocessing work. We used Natural Language Proccessing. In this project we have visualized the most active days, dates in the group, the most talkative person and also visualized the most used words during the chat. The outputs are attached in the Whatsapp Chat Analysis pdf.
